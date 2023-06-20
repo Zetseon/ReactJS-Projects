@@ -1,0 +1,22 @@
+query($page:Int,$perPage:Int,$popularity:[MediaSort!],$type:MediaType){
+  Page(page:$page,perPage:$perPage){
+    pageInfo{
+      lastPage
+      currentPage
+      hasNextPage
+    }
+    media(sort:$popularity,type:$type,isAdult:false) {
+ 			id
+      bannerImage
+      coverImage{
+        large
+      }
+      title{
+        english
+        romaji
+      }
+      episodes
+    	genres
+      }
+    }
+  }

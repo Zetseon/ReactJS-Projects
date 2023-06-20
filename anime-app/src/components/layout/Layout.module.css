@@ -1,0 +1,13 @@
+/* Layout.module.css */
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex-grow: 0;
+  overflow-y: auto;
+  background: #0b1312;
+}

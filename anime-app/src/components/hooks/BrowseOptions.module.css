@@ -1,0 +1,6 @@
+.browseOptionsContainer{
+    display: flex;
+}
+.browseOptionsContainer > div{
+    overflow: none;
+}

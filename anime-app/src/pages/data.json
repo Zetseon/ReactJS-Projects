@@ -1,0 +1,897 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "lastPage": 100,
+        "currentPage": 1,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 151801,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151801-zBFaJMIJFWfS.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151801-wYg28dEaJAw3.png"
+          },
+          "title": {
+            "english": "MASHLE: MAGIC AND MUSCLES",
+            "romaji": "MASHLE"
+          },
+          "episodes": 12,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 150672,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150672-ISwoA0eS722H.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-2WWJVXIAOG11.png"
+          },
+          "title": {
+            "english": "Oshi No Ko",
+            "romaji": "[Oshi no Ko]"
+          },
+          "episodes": 11,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 131518,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131518-uENBDjWnMHmN.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131518-RU7RoUmGb2sP.jpg"
+          },
+          "title": {
+            "english": "Dr. STONE New World",
+            "romaji": "Dr. STONE: NEW WORLD"
+          },
+          "episodes": 11,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ]
+        },
+        {
+          "id": 141208,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141208-06bpzVXG9vqO.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141208-On0qHKxo6P5t.png"
+          },
+          "title": {
+            "english": "TONIKAWA: Over The Moon For You Season 2",
+            "romaji": "Tonikaku Kawaii Season 2"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ]
+        },
+        {
+          "id": 21,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21-tXMN3Y20PIL9.jpg"
+          },
+          "title": {
+            "english": "ONE PIECE",
+            "romaji": "ONE PIECE"
+          },
+          "episodes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 154412,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154412-xecstCsfPLIe.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154412-bEMQkJWOStDR.jpg"
+          },
+          "title": {
+            "english": "The Café Terrace and Its Goddesses",
+            "romaji": "Megami no Café Terrace"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance"
+          ]
+        },
+        {
+          "id": 145139,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145139-V01Prh6UzfRk.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png"
+          },
+          "title": {
+            "english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+            "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen"
+          },
+          "episodes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 136430,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136430-ktoFZnyubhHg.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136430-f8Iza5GEynRW.jpg"
+          },
+          "title": {
+            "english": "Vinland Saga Season 2",
+            "romaji": "VINLAND SAGA SEASON 2"
+          },
+          "episodes": 24,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ]
+        },
+        {
+          "id": 146234,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146234-vSYvPfLwjYXX.jpg"
+          },
+          "title": {
+            "english": "My One-Hit Kill Sister",
+            "romaji": "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ]
+        },
+        {
+          "id": 151606,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151606-337AshscgEwy.png"
+          },
+          "title": {
+            "english": "BIRDIE WING -Golf Girls’ Story- Season 2",
+            "romaji": "BIRDIE WING: Golf Girls' Story Season 2"
+          },
+          "episodes": null,
+          "genres": [
+            "Drama",
+            "Sports"
+          ]
+        },
+        {
+          "id": 150075,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150075-TPl29ZIkZMuu.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150075-c7iph443GTBd.jpg"
+          },
+          "title": {
+            "english": "KONOSUBA -An Explosion on This Wonderful World!",
+            "romaji": "Kono Subarashii Sekai ni Bakuen wo!"
+          },
+          "episodes": 12,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 134131,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/134131-siBEZs8r1uzS.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134131-70vYnpBHFtHy.jpg"
+          },
+          "title": {
+            "english": "Magical Destroyers",
+            "romaji": "Mahou Shoujo Magical Destroyers"
+          },
+          "episodes": 12,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Mahou Shoujo"
+          ]
+        },
+        {
+          "id": 128893,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128893-pAA7PjY8l7dy.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128893-l0R0GFHplDKW.jpg"
+          },
+          "title": {
+            "english": "Hell’s Paradise",
+            "romaji": "Jigokuraku"
+          },
+          "episodes": 13,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mystery",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 160442,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160442-NxKnt9KyL1DG.png"
+          },
+          "title": {
+            "english": "Rokudo's Bad Girls",
+            "romaji": "Rokudou no Onna-tachi"
+          },
+          "episodes": 12,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 155783,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155783-MXHfdquIBoHA.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155783-X23WQwPmI9Sh.jpg"
+          },
+          "title": {
+            "english": "Tengoku Daimakyo",
+            "romaji": "Tengoku Daimakyou"
+          },
+          "episodes": 13,
+          "genres": [
+            "Adventure",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+          ]
+        },
+        {
+          "id": 141911,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141911-XqAZO540hFXw.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141911-LqaNFCgfcj3M.jpg"
+          },
+          "title": {
+            "english": "Skip and Loafer",
+            "romaji": "Skip to Loafer"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ]
+        },
+        {
+          "id": 150957,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150957-VFsWSLJgW9Bu.jpg"
+          },
+          "title": {
+            "english": "Otaku Elf",
+            "romaji": "Edomae Elf"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Slice of Life",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 148109,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148109-cwAINDGwAHB2.jpg"
+          },
+          "title": {
+            "english": "The Legendary Hero is Dead!",
+            "romaji": "Yuusha ga Shinda!"
+          },
+          "episodes": 12,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 153845,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153845-qcUXgT0toF1J.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153845-C47aoKy7wf19.jpg"
+          },
+          "title": {
+            "english": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+            "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
+          },
+          "episodes": 13,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ]
+        },
+        {
+          "id": 154364,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154364-ZFPtr9F1sW60.png"
+          },
+          "title": {
+            "english": "The Ancient Magus’ Bride Season 2",
+            "romaji": "Mahoutsukai no Yome SEASON 2"
+          },
+          "episodes": 12,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance",
+            "Slice of Life",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 148048,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148048-IaEk51Wtu07L.jpg"
+          },
+          "title": {
+            "english": "KamiKatsu: Working for God in a Godless World",
+            "romaji": "Kaminaki Sekai no Kamisama Katsudou"
+          },
+          "episodes": 12,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 153452,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153452-6aGeSxRw2cxY.jpg"
+          },
+          "title": {
+            "english": "Ranking of Kings: The Treasure Chest of Courage",
+            "romaji": "Ousama Ranking: Yuuki no Takarabako"
+          },
+          "episodes": 10,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 155070,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155070-XuEi3eycUBjC.png"
+          },
+          "title": {
+            "english": "TOO CUTE CRISIS",
+            "romaji": "Kawaisugi Crisis"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ]
+        },
+        {
+          "id": 154965,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154965-9AwJG3nVokqG.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154965-vZbBRjtmLp7S.jpg"
+          },
+          "title": {
+            "english": "My Love Story with Yamada-kun at Lv999",
+            "romaji": "Yamada-kun to Lv999 no Koi wo Suru"
+          },
+          "episodes": 13,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ]
+        },
+        {
+          "id": 143653,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143653-cvWrYzJPgDkV.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143653-h6NEdWxKIRza.png"
+          },
+          "title": {
+            "english": "Insomniacs after school",
+            "romaji": "Kimi wa Houkago Insomnia"
+          },
+          "episodes": 13,
+          "genres": [
+            "Romance",
+            "Slice of Life"
+          ]
+        },
+        {
+          "id": 157198,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157198-LVZ7PgxWwc6v.jpg"
+          },
+          "title": {
+            "english": "Dead Mount Death Play",
+            "romaji": "Dead Mount Death Play"
+          },
+          "episodes": 12,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Supernatural",
+            "Thriller"
+          ]
+        },
+        {
+          "id": 153152,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153152-rBoe4ue4EjzI.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153152-3yAM7pdAcozH.jpg"
+          },
+          "title": {
+            "english": "The Dangers in My Heart",
+            "romaji": "Boku no Kokoro no Yabai Yatsu"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ]
+        },
+        {
+          "id": 269,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/269-08ar2HJOUAuL.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx269-KxkqTIuQgJ6v.png"
+          },
+          "title": {
+            "english": "Bleach",
+            "romaji": "BLEACH"
+          },
+          "episodes": 366,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 130298,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130298-9yxFlFvKMwRk.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-O7nR1Wrav2dH.jpg"
+          },
+          "title": {
+            "english": "The Eminence in Shadow",
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!"
+          },
+          "episodes": 20,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 151847,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151847-S1pTlfRY2DqB.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151847-OnTYbvb4y4mp.jpg"
+          },
+          "title": {
+            "english": "Why Raeliana Ended Up at the Duke’s Mansion",
+            "romaji": "Kanojo ga Koushaku-tei ni Itta Riyuu"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Mystery",
+            "Romance"
+          ]
+        },
+        {
+          "id": 97940,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97940-1URQdQ4U1a0b.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-O2LWFOG8bK1u.jpg"
+          },
+          "title": {
+            "english": "Black Clover",
+            "romaji": "Black Clover"
+          },
+          "episodes": 170,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 137822,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137822-oevspckMGLuY.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137822-4dVWMSHLpGf8.png"
+          },
+          "title": {
+            "english": "BLUELOCK",
+            "romaji": "Blue Lock"
+          },
+          "episodes": 24,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sports"
+          ]
+        },
+        {
+          "id": 155158,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155158-6iox6U8TO4BQ.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155158-1twjG8KtZscr.jpg"
+          },
+          "title": {
+            "english": "Mobile Suit Gundam: The Witch from Mercury Season 2",
+            "romaji": "Kidou Senshi Gundam: Suisei no Majo Season 2"
+          },
+          "episodes": 12,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ]
+        },
+        {
+          "id": 149028,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/149028-laR7XfTl5W9K.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149028-RrE2FX1FGIMv.png"
+          },
+          "title": {
+            "english": "Yuri Is My Job!",
+            "romaji": "Watashi no Yuri wa Oshigoto desu!"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ]
+        },
+        {
+          "id": 148969,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148969-Ss5qOkasNcnG.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148969-3vPgXpMpQvba.jpg"
+          },
+          "title": {
+            "english": "Kubo Won't Let Me Be Invisible",
+            "romaji": "Kubo-san wa Mob wo Yurusanai"
+          },
+          "episodes": 12,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ]
+        },
+        {
+          "id": 127230,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127230-o8IRwCGVr9KW.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127230-FlochcFsyoF4.png"
+          },
+          "title": {
+            "english": "Chainsaw Man",
+            "romaji": "Chainsaw Man"
+          },
+          "episodes": 12,
+          "genres": [
+            "Action",
+            "Drama",
+            "Horror",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 120377,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120377-c15oLS8CA31s.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120377-GdoVPT4ZVxJn.jpg"
+          },
+          "title": {
+            "english": "CYBERPUNK: EDGERUNNERS",
+            "romaji": "Cyberpunk: Edgerunners"
+          },
+          "episodes": 10,
+          "genres": [
+            "Action",
+            "Drama",
+            "Psychological",
+            "Sci-Fi"
+          ]
+        },
+        {
+          "id": 11061,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11061-8WkkTZ6duKpq.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-sIpBprNRfzCe.png"
+          },
+          "title": {
+            "english": "Hunter x Hunter (2011)",
+            "romaji": "HUNTER×HUNTER (2011)"
+          },
+          "episodes": 148,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 153332,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153332-k3Jg04E9jNRo.png"
+          },
+          "title": {
+            "english": "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far",
+            "romaji": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
+          },
+          "episodes": 12,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Romance"
+          ]
+        },
+        {
+          "id": 140754,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140754-JHwGp7NrAj9m.png"
+          },
+          "title": {
+            "english": "Summoned to Another World for a Second Time",
+            "romaji": "Isekai Shoukan wa Nidome desu"
+          },
+          "episodes": 12,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": 1735,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1735.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-Az5gbEdWeotG.png"
+          },
+          "title": {
+            "english": "Naruto: Shippuden",
+            "romaji": "NARUTO: Shippuuden"
+          },
+          "episodes": 500,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 813,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/813-03ZLvWJgR6Wd.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx813-QBIvCQgHcjcF.png"
+          },
+          "title": {
+            "english": "Dragon Ball Z",
+            "romaji": "Dragon Ball Z"
+          },
+          "episodes": 291,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 142343,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142343-o8gkjIF434qZ.jpg"
+          },
+          "title": {
+            "english": "Golden Kamuy Season 4",
+            "romaji": "Golden Kamuy 4th Season"
+          },
+          "episodes": 13,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ]
+        },
+        {
+          "id": 101348,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101348-msJS8z91mG0P.jpg"
+          },
+          "title": {
+            "english": "Vinland Saga",
+            "romaji": "VINLAND SAGA"
+          },
+          "episodes": 24,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ]
+        },
+        {
+          "id": 21355,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21355-f9SjOfEJMk5P.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-IHaS50pvLYd0.jpg"
+          },
+          "title": {
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu"
+          },
+          "episodes": 25,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Romance",
+            "Thriller"
+          ]
+        },
+        {
+          "id": 19,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19-kJhwsB0Z97tL.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-ham53gnijfiN.jpg"
+          },
+          "title": {
+            "english": "Monster",
+            "romaji": "MONSTER"
+          },
+          "episodes": 74,
+          "genres": [
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Thriller"
+          ]
+        },
+        {
+          "id": 147571,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147571-QvxjhZtVavTz.png"
+          },
+          "title": {
+            "english": "In Another World With My Smartphone 2",
+            "romaji": "Isekai wa Smartphone to Tomo ni. 2"
+          },
+          "episodes": 12,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ]
+        },
+        {
+          "id": 145064,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-5fa4ZBbW4dqA.jpg"
+          },
+          "title": {
+            "english": null,
+            "romaji": "Jujutsu Kaisen 2nd Season"
+          },
+          "episodes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ]
+        },
+        {
+          "id": 127550,
+          "bannerImage": null,
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127550-RU1zDtA62lWI.jpg"
+          },
+          "title": {
+            "english": "Kuma Kuma Kuma Bear - Punch!",
+            "romaji": "Kuma Kuma Kuma Bear Punch!"
+          },
+          "episodes": 12,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ]
+        },
+        {
+          "id": 113415,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-bbBWj4pEFseh.jpg"
+          },
+          "title": {
+            "english": "JUJUTSU KAISEN",
+            "romaji": "Jujutsu Kaisen"
+          },
+          "episodes": 24,
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+.selectStyle {
+  background-color: #f2f2f2;
+  color: #333;
+  padding: 8px;
+  border-radius: 4px;
+  font-family: Arial, sans-serif;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin: 60px;
+}
+
+.selectStyle:hover,
+.selectStyle:focus {
+  background-color: #e6e6e6;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+
+.selectStyle::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  width: 8px;
+  height: 8px;
+  border-left: 2px solid #333;
+  border-bottom: 2px solid #333;
+  transition: transform 0.3s ease;
+  pointer-events: none;
+}
+
+.selectStyle:hover::before,
+.selectStyle:focus::before {
+  transform: translateY(-50%) rotate(-45deg);
+}
+
+.selectStyle option {
+  background-color: #fff;
+  color: #333;
+}
+
+.selectStyle option:hover {
+  background-color: #e6e6e6;
+}

@@ -1,0 +1,138 @@
+/* MediaDetailOverlay.module.css */
+.overlayContainer {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    
+}
+
+.overlay {
+    position: relative;
+    background: linear-gradient(#e66465,white, #9198e5 );
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 92%;
+    width: 100%;
+    max-height: calc(100% - 40px);
+    overflow: auto; /* Add this line */
+    scroll-behavior: smooth;
+
+}
+
+
+/* Rest of the CSS styles */
+
+.modal {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 600px;
+}
+
+.data {
+    display: flex;
+    align-items: flex-start;
+}
+
+.sideBar {
+    width: 250px;
+    flex-shrink: 0;
+    
+}
+
+.sideBar .image img {
+    width: 100%;
+    height: auto;
+    border: 2px solid rgb(255, 211, 253);
+    border-radius: 3%;
+}
+.sideBar  .sideBarData span{
+  font-weight: bold;
+}
+.sideBar .rating {
+    margin-top: 15px;
+    background: #ebf8e1;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding-top:1px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.sideBar .rating span{
+  font-weight: bold;
+}
+
+.sideBar .sideBarData {
+    margin-top: 15px;
+    background: #ebf8e1;
+    box-shadow: 2px 2px 10px rgba(143, 119, 209, 0.2);
+    border-radius: 5px;
+    padding-top:1px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+/*_________________________________________________________________*/
+
+.bodyData {
+    margin-left: 10px;
+    flex-grow: 1;
+    text-align: left;
+    padding-left: 16px;
+}
+.bodyData .bodyHeader {
+    border-bottom: 5px solid rgb(88, 30, 30);
+    padding-bottom: 16px;
+}
+.bodyData .titles{
+    padding: 10px;
+    background: #ebf8e1;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+.bodyData .bodyHeader p {
+    margin-top: 0;
+}
+.bodyData .bodyHeader span{
+  font-weight: bold;
+}
+
+.description {
+    margin-top: 15px;
+    padding: 16px;
+    background: linear-gradient(#ebf8e1, #ebe1e7);
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+.body {
+    margin-top: 15px;
+
+}
+.body .voiceActors {
+    background: linear-gradient(#ebf8e1, #ebe1e7);
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 16px;
+}
+.body .voiceActors > ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.close:hover {
+    cursor: pointer;
+}

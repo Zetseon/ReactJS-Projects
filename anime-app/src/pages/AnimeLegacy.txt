@@ -1,0 +1,52 @@
+import { useState } from "react";
+import MediaAnimeBrowse from "../components/Media/MediaAnimeBrowse.js";
+import BrowseOptions from "../components/hooks/BrowseOptions.js";
+import classes from "./Anime.module.css";
+import DetailOverlay from "../components/ui/DetailOverlay.js";
+
+//ANime page
+
+function Anime() {
+    const [selectedGenres, setSelectedGenres] = useState([]);
+    const [sortBy, setSortBy] = useState("POPULARITY_DESC");
+    const [isOverlayVisible, setIsOverlayVisible] = useState(false);
+    const [selectedMediaId, setSelectedMediaId] = useState(null);
+
+    const handleGenreChange = (selectedGenres) => {
+        setSelectedGenres(selectedGenres);
+    };
+    const handleSortByChange = (selectedSortBy) => {
+        setSortBy(selectedSortBy);
+    };
+
+    const handleMediaClick = (mediaId) => {
+        setSelectedMediaId(mediaId);
+        setIsOverlayVisible(true);
+    };
+    const handleCloseOverlay = () => {
+        setIsOverlayVisible(false);
+    };
+
+    return (
+        <section className={classes.content}>
+            <BrowseOptions
+                onGenreChange={handleGenreChange}
+                onSortByChange={handleSortByChange}
+            />
+            <div className={classes.div}>
+                <MediaAnimeBrowse
+                    selectedGenres={selectedGenres}
+                    sortBy={sortBy}
+                    onMediaClick = {handleMediaClick}
+                />
+            </div>
+            {isOverlayVisible &&  (
+                <DetailOverlay
+                    mediaId={selectedMediaId}
+                    onClose={handleCloseOverlay}
+                />
+            )}
+        </section>
+    );
+}
+export default Anime;

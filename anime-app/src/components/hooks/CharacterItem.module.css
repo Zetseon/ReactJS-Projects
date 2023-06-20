@@ -1,0 +1,42 @@
+.li {
+    list-style: none;
+    margin-bottom: 16px;
+  }
+
+.character{
+   
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.character img{
+    border: 2px solid rgb(255, 255, 255);
+    height:120px;
+    width: 85px;
+    border-radius: 8%;
+}
+.character p {
+    margin:auto;
+    margin-left: 0;
+    font-size: 12px;
+}
+.voiceActor{
+    width: 50%;
+    display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+
+}
+.voiceActor img{
+    border: 2px solid rgb(255, 255, 255);
+    height:120px;
+    width: 85px;
+    border-radius: 8%;
+}
+.voiceActor p {
+    margin:auto;
+    margin-right: 0;
+    font-size: 12px;
+}
+

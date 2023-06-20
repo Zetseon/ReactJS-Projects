@@ -1,0 +1,13 @@
+.MediaDisplayCard {
+    width: 300px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    margin-right: 16px; 
+    overflow: hidden;
+    background-color: antiquewhite;
+  }
+  
